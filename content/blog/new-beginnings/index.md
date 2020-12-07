@@ -1,6 +1,6 @@
 ---
 title: Hello from CMS
-date: 2020-12-06T22:40:32.169Z
+date: 2020-12-07T12:39:39.256Z
 description: This is a custom description for SEO and Open Graph purposes,
   rather than the default generated excerpt. Simply add a description field to
   the frontmatter.
